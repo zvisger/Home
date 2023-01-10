@@ -744,7 +744,7 @@ const defaultOptions = {
 };
 {
   defaultOptions.defaultUrl = {
-    value: "compressed.tracemonkey-pldi-09.pdf",
+    value: "eAPX D 01.00 IIPP Initial Incident Report.pdf",
     kind: OptionKind.VIEWER
   };
   defaultOptions.disablePreferences = {
